@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TharulChandrasiri and 15 years old
 - 👀 I’m interested in cyber sequrity
-- 🌱 I’m currently learning programing languages and about networking 
+- 🌱 I’m currently learning programing languages and networking 
 
 
 <!---
